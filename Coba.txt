@@ -1,4 +1,12 @@
 Tes aja ini gen
 coba branch ubed
 
+<<<<<<< HEAD
 coba konflik
+=======
+coba lagi
+
+2019 enaknya ganti apa ya?
+
+again
+>>>>>>> ubed
