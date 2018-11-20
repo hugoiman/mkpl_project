@@ -1,17 +1,11 @@
 Tes aja ini gen
 coba branch ubed
 
-<<<<<<< HEAD
-coba konflik
-=======
 coba lagi
 
 2019 enaknya ganti apa ya?
 
 again
-<<<<<<< HEAD
->>>>>>> ubed
-=======
 
 again more
 
@@ -24,8 +18,3 @@ again ssh
 Ini pasti bisa
 
 terakhir sam
-<<<<<<< HEAD
->>>>>>> ubed
-=======
->>>>>>> origin/ubed
->>>>>>> cb8aa1f2528b126d275d77effc17477e88ac3fab
