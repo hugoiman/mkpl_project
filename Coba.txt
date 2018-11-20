@@ -9,4 +9,19 @@ coba lagi
 2019 enaknya ganti apa ya?
 
 again
+<<<<<<< HEAD
 >>>>>>> ubed
+=======
+
+again more
+
+more much
+
+tes ssh
+
+again ssh
+
+Ini pasti bisa
+
+terakhir sam
+>>>>>>> origin/ubed
