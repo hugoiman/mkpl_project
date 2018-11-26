@@ -1,1 +1,0 @@
-# mkpl_project kelompok 8
